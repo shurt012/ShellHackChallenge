@@ -1,3 +1,32 @@
 <template name="education">
-
+    <section id="how-it-works" class="text-center">
+        <div class="container wow fadeIn animated">
+            <div class="row col-md-12">
+                <h3>{{_ "how"}}</h3>
+                <h4>{{Config.name}} - {{Config.subtitle}}</h4>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row" id="icon-row">
+                <div class="col-md-4 wow fadeInUp animated" data-wow-delay="0.4s">
+                    <div class="iconbox">
+                        <i class="fa fa-female fa-3x"></i>
+                    </div>
+                    <p class="icnp">{{_ "step_1_text"}}</p>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated" data-wow-delay="0.8s">
+                    <div class="iconbox">
+                        <i class="fa fa-magic fa-3x"></i>
+                    </div>
+                    <p class="icnp">{{_ "step_2_text"}}</p>
+                </div>
+                <div class="col-md-4 wow fadeInUp animated" data-wow-delay="1.2s">
+                    <div class="iconbox">
+                        <i class="fa fa-wechat fa-3x"></i>
+                    </div>
+                    <p class="icnp">{{_ "step_3_text"}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
 </template>
