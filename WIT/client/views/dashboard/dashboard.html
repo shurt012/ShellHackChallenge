@@ -20,7 +20,7 @@
 				<div class="panel-heading">
 					<h3 class="panel-title">{{_ "add_post"}}</h3>
 				</div>
-				<div class="panel-body">
+				<div class="panel-body" style = "background-color: #DCEDC8;">
 					{{#autoForm id="add" collection="Posts" type="insert"}}
 					{{> afQuickField name="title"}}
 					{{> afQuickField name="content"}}
@@ -54,7 +54,7 @@
 						</span>
 					</h3>
 				</div>
-				<div class="panel-body">
+				<div class="panel-body" style = "background-color: #DCEDC8;">
 					<p class="text-center">
 						{{#with getDoc picture 'Attachments'}}
 							<img src="{{url}}" class="img-thumbnail img-rounded">
@@ -95,7 +95,7 @@
 			<div class="panel-heading">
 					<h3 class="panel-title">{{_ "favorites"}}</h3>
 			</div>
-			<div class="panel-body">
+			<div class="panel-body" style = "background-color: #DCEDC8;">
 				<ul>
 				{{#each myFavorites}}
 					<li>
