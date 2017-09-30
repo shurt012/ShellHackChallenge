@@ -1,15 +1,5 @@
-Meteor Starter
-==============
-
-A Meteor boilerplate with a lot packed in. Written in Coffeescript.
-
-[Tutorials](http://learn.meteorfactory.io/meteor-starter/)
-
-[MIT License](http://choosealicense.com/licenses/mit/)
-
-Maintained by [Meteor Factory](https://meteorfactory.io). Professional Meteor development.
-
-[![Meteor starter](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/meteor-factory.jpg)](http://meteorfactory.io)
+Women In Technology (WIT) - Breaking The Glass Ceiling ShellHacks Challenge
+==============================================================================
 
 ### Setup ####
 
