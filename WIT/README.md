@@ -14,8 +14,8 @@ Maintained by [Meteor Factory](https://meteorfactory.io). Professional Meteor de
 ### Setup ####
 
 ```
-git clone https://github.com/yogiben/meteor-starter.git myapp
-cd myapp
+git clone https://github.com/shurt012/ShellHackChallenge.git WIT
+cd WIT
 meteor
 ```
 
@@ -74,12 +74,3 @@ Run it
 docker run --name mongodb -d mongo
 docker run -it --rm -p 3000:3000 --link mongodb:db -e "MONGO_URL=mongodb://db" -e "ROOT_URL=http://localhost:3000" myrepo/mymeteorapp
 ```
-
-### Screenshots ###
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/meteor-starter-5.png)
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/login.png)
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/profile.png)
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/like_comment.png)
-
-### Premium Support ###
-Have an urgent issue or want help with implementation? Start a conversation with [Meteor Factory](http://meteorfactory.io).
