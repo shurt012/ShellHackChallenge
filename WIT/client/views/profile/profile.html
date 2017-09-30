@@ -1,7 +1,7 @@
 <template name="profile">
 	<div class="template-profile">
 		<div class="container">
-			<div class="row">
+			<div class="row" style = "margin-bottom: 5%;">
 				{{#autoForm id="updatePicture" collection=Users doc=User type="update"}}
 				<div class="col-md-4">
 						{{> afQuickField name="profile.picture"}}
