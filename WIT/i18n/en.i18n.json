@@ -16,7 +16,10 @@
 	"section_ipad_header": "Our Mission",
 	"section_ipad_text": "Shatter's mission is to provide young women interested in computer science and related studies with an opportunity to connect with those already established in these fields. This is a space to create life-lasting connections with mentors, find the resources needed to achieve education and career goals, and get any and all questions you may have answered quickly and easily. Shatter aims to empower women of all ages and backgrounds to take steps toward shattering the glass ceiling.",
 	"section_ipad_btn": "Click Here to Learn More",
-	"final_text": "Your tech career will sore.",
+	"education_btn": "Education",
+	"career_btn": "Professional Development",
+	"mentorship_btn": "Mentorship",
+	"ama_btn": "AMA and Events",
 	"final_cta": "Take a look",
 
 	/*Shared*/
