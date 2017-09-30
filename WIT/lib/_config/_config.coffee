@@ -4,7 +4,7 @@
 @Config =
 
 	# Basic Details
-	name: 'My App'
+	name: 'Women In Technology (WIT)'
 	title: ->
 			TAPi18n.__ 'configTitle'
 	subtitle: ->
@@ -21,36 +21,36 @@
 
 	# Username - if true, users are forced to set a username
 	username: false
-	
+
 	# Localisation
 	defaultLanguage: 'en'
 	dateFormat: 'D/M/YYYY'
 
 	# Meta / Extenrnal content
-	privacyUrl: 'http://meteorfactory.io'
-	termsUrl: 'http://meteorfactory.io'
+	privacyUrl: 'https://github.com/shurt012/ShellHackChallenge'
+	termsUrl: 'https://github.com/shurt012/ShellHackChallenge'
 
 	# For email footers
 	legal:
-		address: 'Jessnerstrasse 18, 12047 Berlin'
-		name: 'Meteor Factory'
-		url: 'http://benjaminpeterjones.com'
+		address: '11200 SW 8th St, Miami, FL 33199'
+		name: 'Women In Technology (WIT)'
+		url: 'https://www.cis.fiu.edu'
 
-	about: 'http://meteorfactory.io'
-	blog: 'http://learn.meteorfactory.io'
+	about: 'https://github.com/shurt012/ShellHackChallenge'
+	blog: 'https://www.cis.fiu.edu'
 
 	socialMedia:
 		facebook:
-			url: 'http://facebook.com/benjaminpeterjones'
+			url: 'https://www.facebook.com/ShellHacks/'
 			icon: 'facebook'
 		twitter:
-			url: 'http://twitter.com/BenPeterJones'
+			url: 'https://twitter.com/hashtag/shellhacksfiu?src=hash&lang=en'
 			icon: 'twitter'
 		github:
-			url: 'http://github.com/yogiben'
+			url: 'https://github.com/shurt012/ShellHackChallenge'
 			icon: 'github'
 		info:
-			url: 'http://meteorfactory.io'
+			url: 'https://shellhacks.net'
 			icon: 'link'
 
 	#Routes
