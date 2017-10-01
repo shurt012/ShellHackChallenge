@@ -13,12 +13,18 @@ Router.map ->
       ]
     data: ->
       posts: Posts.find({},{sort: {createdAt: -1}}).fetch()
-      
+
   @route "education",
     path: "/education"
 
   @route "mentorship",
     path: "/mentorship"
+
+  @route "mentor",
+    path: "/mentorship/mentor"
+
+  @route "mentee",
+    path: "/mentorship/mentee"
 
   @route "professional",
     path: "/professional"
