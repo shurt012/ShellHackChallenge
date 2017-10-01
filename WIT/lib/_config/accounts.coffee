@@ -32,7 +32,7 @@ AccountsTemplates.configure
   # Redirects
   homeRoutePath: Config.dashboardRoute || null
   homeRoutePath: Config.educationRoute || null
-
+  
   # Hooks
   onLogoutHook: ->
     console.log 'logout'

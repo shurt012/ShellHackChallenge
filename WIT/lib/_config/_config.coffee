@@ -58,3 +58,5 @@
 	publicRoutes: ['home']
 	dashboardRoute: '/dashboard'
 	educationRoute: '/education'
+	menteeRoute: '/mentorship/mentee'
+	mentorRoute: '/mentorship/mentor'
