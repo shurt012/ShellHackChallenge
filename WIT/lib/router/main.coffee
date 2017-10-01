@@ -16,3 +16,12 @@ Router.map ->
       
   @route "education",
     path: "/education"
+
+  @route "mentorship",
+    path: "/mentorship"
+
+  @route "professional",
+    path: "/professional"
+
+  @route "qandcalendar",
+    path: "/qandcalendar"
