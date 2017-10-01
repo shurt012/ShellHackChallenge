@@ -2,8 +2,8 @@
 
 	/*Config*/
 	"configName": "B0SSLAD1ES (WIT)",
-	"configTitle": "Meet Mentors In The Technology Industry. Excel.",
-	"configSubtitle": "Connect With Other Females In the Tech Industry.",
+	"configTitle": "Find or Become a Mentor in the Technology Industry",
+	"configSubtitle": "Ladies, meet boss ladies!",
 
 	/*Home*/
 	"getstarted": "Get Started",
@@ -14,7 +14,7 @@
 	"step_2_text": "Take technology interest mentor matching quiz.",
 	"step_3_text": "Wait to receive matches and chat live with other females in tech.",
 	"section_ipad_header": "Our Mission",
-	"section_ipad_text": "B0SSLAD1ES' mission is to provide young women interested in computer science and related studies with an opportunity to connect with those already established in their fields--ladies, meet boss ladies! This is a space to create life-lasting connections with mentors, find the resources needed to achieve education and career goals, and get tough questions answered quickly and easily. Shatter recognizes the power that community brings to the individual, and aims to empower women of all ages and backgrounds to take steps together toward shattering the glass ceiling.",
+	"section_ipad_text": "B0SSLAD1ES' mission is to provide young women interested in computer science and related studies with an opportunity to connect with those already established in their fields--ladies, meet boss ladies! This is a space to create life-lasting connections with mentors, find the resources needed to achieve education and career goals, and get tough questions answered quickly and easily. We recognizes the power that community brings to the individual, and aims to empower women of all ages and backgrounds to take steps together toward shattering the glass ceiling.",
 	"section_ipad_btn": "Click Here to Learn More",
 	"education_btn": "Education",
 	"mentor_btn": "Mentor",
@@ -27,6 +27,7 @@
 	/*Education*/
 	"education_intro_header": "Knowledge is Power",
 	"education_intro": "We want to provide you with the resources that you need to choose your own adventure when it comes to education.",
+	"top_schools": "Check Out the Top 50 Schools for CS/Engineering",
 
 	/*Shared*/
 
