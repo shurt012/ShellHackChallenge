@@ -4,7 +4,7 @@
 @Config =
 
 	# Basic Details
-	name: 'Women In Technology (WIT)'
+	name: 'B0SSLAD1ES'
 	title: ->
 			TAPi18n.__ 'configTitle'
 	subtitle: ->
@@ -33,7 +33,7 @@
 	# For email footers
 	legal:
 		address: '11200 SW 8th St, Miami, FL 33199'
-		name: 'Women In Technology (WIT)'
+		name: 'B0SSLAD1ES'
 		url: 'https://www.cis.fiu.edu'
 
 	about: 'https://github.com/shurt012/ShellHackChallenge'
